@@ -1,0 +1,24 @@
+{
+  "admins": ["7335460356"],
+  "partners": {
+    "7335460356": {
+      "name": "Partner A",
+      "numbers": ["628111111111"],
+      "resellers": {
+        "7335460356": {
+          "name": "Reseller 1",
+          "numbers": ["6281234567890", "6289876543210"]
+        },
+        "88888": {
+          "name": "Reseller 2",
+          "numbers": []
+        }
+      }
+    },
+    "66666": {
+      "name": "Partner B",
+      "numbers": [],
+      "resellers": {}
+    }
+  }
+}
